@@ -1,0 +1,918 @@
+
+  "destinations": [
+    {
+      "id": 1,
+      "name": "Lisbonne",
+      "country": "Portugal",
+      "region": "Europe",
+      "slug": "lisbonne-portugal",
+      "image": "https://radio-voyage.fr/wp-content/uploads/2018/07/tramway-lisbonne-tourisme-visite.jpg",
+      "gallery": [
+        "https://radio-voyage.fr/wp-content/uploads/2018/07/tramway-lisbonne-tourisme-visite.jpg",
+        "https://images.unsplash.com/photo-1555881400-74d7acaacd8b?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1560707540-6c4b8c59c72e?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1548707297-ddf4b1f0e1c2?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"
+      ],
+      "price": "À partir de 1200€/mois",
+      "minBudget": 1200,
+      "rating": 4.8,
+      "reviewCount": 89,
+      "highlights": ["École française", "Coût de la vie abordable", "Climat doux", "Communauté nomade active"],
+      "familyFriendly": true,
+      "hasSchool": true,
+      "hasNanny": false,
+      "minDuration": 1,
+      "maxCapacity": 6,
+      "climate": "tempéré",
+      "safety": 5,
+      "wifiQuality": 4,
+      "description": "Capitale ensoleillée du Portugal, Lisbonne offre un parfait équilibre entre tradition et modernité. Avec son école française établie et sa communauté nomade dynamique, c'est la destination idéale pour les familles qui découvrent le nomadisme digital.",
+      "longDescription": "Lisbonne, la capitale du Portugal, est une ville authentique et chaleureuse qui séduit immédiatement les familles nomades. Construite sur sept collines le long du Tage, elle offre un cadre de vie exceptionnel alliant histoire millénaire et modernité. La ville bénéficie d'un climat doux toute l'année, avec plus de 300 jours de soleil, idéal pour les familles avec enfants. Le coût de la vie, significativement plus bas qu'en France, permet aux familles de vivre confortablement tout en maintenant un excellent niveau de vie.",
+      "advantages": [
+        "École française reconnue par l'AEFE",
+        "Coût de la vie 40% moins cher qu'en France",
+        "Climat méditerranéen toute l'année",
+        "Excellentes connexions vers l'Europe",
+        "Communauté francophone établie",
+        "Transports publics excellents",
+        "Sécurité et stabilité politique",
+        "Gastronomie délicieuse et saine"
+      ],
+      "practicalInfo": {
+        "visa": "Pas de visa nécessaire pour les citoyens UE",
+        "currency": "Euro (€)",
+        "language": "Portugais (anglais et français parlés)",
+        "timezone": "GMT+0 (GMT+1 en été)",
+        "plugType": "Type C et F (européen standard)",
+        "internet": "Fibre optique disponible partout, 4G/5G excellent",
+        "healthcare": "Carte européenne d'assurance maladie acceptée",
+        "transportation": "Métro, tramway, bus - Pass mensuel 40€",
+        "weather": "15-25°C, 300+ jours de soleil/an"
+      },
+      "educationOptions": [
+        {
+          "name": "École française de Lisbonne",
+          "type": "École française",
+          "ageRange": "3-18 ans",
+          "description": "Établissement reconnu par l'AEFE proposant le programme français complet",
+          "tuition": "600-800€/mois",
+          "features": ["Programme français", "Baccalauréat français", "Classes de 20 élèves max", "Activités extra-scolaires"],
+          "address": "Rua Professor Francisco Lucas Pires, 1600-457 Lisboa",
+          "website": "www.efle.pt"
+        },
+        {
+          "name": "CNED + Support local",
+          "type": "Enseignement à distance",
+          "ageRange": "6-18 ans",
+          "description": "Cours CNED avec accompagnement local par des professeurs français",
+          "tuition": "200-400€/mois",
+          "features": ["Flexibilité horaire", "Suivi personnalisé", "Socialisation locale", "Support technique"]
+        },
+        {
+          "name": "Crèche internationale",
+          "type": "Garde d'enfants",
+          "ageRange": "0-5 ans",
+          "description": "Garderies multilingues avec personnel qualifié",
+          "tuition": "400-600€/mois",
+          "features": ["Multilinguisme", "Éducation Montessori", "Repas inclus", "Activités créatives"]
+        }
+      ],
+      "housingOptions": [
+        {
+          "type": "Appartement centre-ville",
+          "priceRange": "1200-1800€/mois",
+          "description": "T3-T4 meublés dans les quartiers historiques (Chiado, Bairro Alto)",
+          "features": ["Vue sur le Tage", "Proche transports", "Meublé complet", "Wifi inclus"],
+          "neighborhoods": ["Chiado", "Bairro Alto", "Príncipe Real", "Santos"]
+        },
+        {
+          "type": "Maison familiale",
+          "priceRange": "1500-2500€/mois",
+          "description": "Maisons avec jardin dans les quartiers résidentiels (Benfica, Alvalade)",
+          "features": ["Jardin privé", "3-4 chambres", "Garage", "Proche écoles"],
+          "neighborhoods": ["Benfica", "Alvalade", "Campo de Ourique", "Avenidas Novas"]
+        },
+        {
+          "type": "Coliving nomade",
+          "priceRange": "800-1200€/mois",
+          "description": "Espaces partagés conçus pour les familles nomades",
+          "features": ["Communauté", "Espaces de coworking", "Garde partagée", "Tout inclus"],
+          "neighborhoods": ["LX Factory", "Cais do Sodré", "Marquês de Pombal"]
+        }
+      ],
+      "costs": {
+        "housing": { "min": 1200, "max": 2500, "average": 1600 },
+        "food": { "min": 400, "max": 800, "average": 600 },
+        "transport": { "min": 100, "max": 200, "average": 150 },
+        "education": { "min": 200, "max": 800, "average": 500 },
+        "utilities": { "min": 150, "max": 300, "average": 200 },
+        "leisure": { "min": 200, "max": 500, "average": 300 },
+        "total": { "min": 2250, "max": 5100, "average": 3350 }
+      },
+      "testimonials": [
+        {
+          "author": "Sophie & Marc",
+          "family": "Famille de 4 (enfants 8 et 12 ans)",
+          "duration": "6 mois",
+          "text": "Grâce à Nomadeos, nous avons vécu 6 mois extraordinaires à Lisbonne. Les enfants ont adoré l'école française locale et nous avons pu maintenir nos revenus grâce à la location de notre maison. Un rêve devenu réalité !",
+          "rating": 5,
+          "image": "https://images.unsplash.com/photo-1511895426328-dc8714191300?w=100&h=100&fit=crop&crop=face",
+          "date": "2024-03-15"
+        },
+        {
+          "author": "Claire & David",
+          "family": "Couple + bébé (18 mois)",
+          "duration": "3 mois",
+          "text": "Première expérience nomade avec notre bébé à Lisbonne. La crèche était parfaite et nous avons découvert une qualité de vie incroyable. Nous reviendrons c'est sûr !",
+          "rating": 5,
+          "image": "https://images.unsplash.com/photo-1494790108755-2616b612b3be?w=100&h=100&fit=crop&crop=face",
+          "date": "2024-01-20"
+        }
+      ],
+      "activities": [
+        "Découverte des azulejos et tramways historiques",
+        "Plages de Cascais et Estoril (30min en train)",
+        "Visite du château Saint-Georges",
+        "Fado dans les tavernes de l'Alfama",
+        "Parc des Nations et Oceanarium",
+        "Excursions à Sintra et ses palais",
+        "Marché de la Ribeira et LX Factory"
+      ],
+      "coworkingSpaces": [
+        "Second Home Lisboa",
+        "Warehouse Lisboa",
+        "Cristal Palace",
+        "The Hive",
+        "Seats2meet"
+      ],
+      "bestMonths": ["Mars", "Avril", "Mai", "Septembre", "Octobre", "Novembre"],
+      "tags": ["Europe", "Familie", "École française", "Économique", "Sécurisé", "Culture", "Plage"]
+    },
+    {
+      "id": 2,
+      "name": "Bali",
+      "country": "Indonésie",
+      "region": "Asie",
+      "slug": "bali-indonesie",
+      "image": "https://indonesie-tourisme.fr/wp-content/uploads/resort-sejour-all-inclusive-bali.jpg",
+      "gallery": [
+        "https://indonesie-tourisme.fr/wp-content/uploads/resort-sejour-all-inclusive-bali.jpg",
+        "https://images.unsplash.com/photo-1537953773345-d172ccf13cf1?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1518548419970-58e3b4079ab2?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1559827260-dc66d52bef19?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"
+      ],
+      "price": "À partir de 800€/mois",
+      "minBudget": 800,
+      "rating": 4.6,
+      "reviewCount": 156,
+      "highlights": ["Paradis tropical", "Très économique", "Wifi excellent", "Nounous qualifiées"],
+      "familyFriendly": true,
+      "hasSchool": false,
+      "hasNanny": true,
+      "minDuration": 2,
+      "maxCapacity": 5,
+      "climate": "tropical",
+      "safety": 4,
+      "wifiQuality": 5,
+      "description": "Île paradisiaque d'Indonésie, Bali séduit les familles nomades par son coût de la vie très abordable, sa culture riche et ses infrastructures numériques excellentes. Parfait pour l'instruction en famille avec support local.",
+      "longDescription": "Bali, l'île des dieux, est devenue LA destination de référence pour les familles nomades digitales. Cette île indonésienne offre un cadre de vie exceptionnel avec ses paysages tropicaux, ses temples millénaires et sa culture hindoue unique. Ce qui séduit particulièrement les familles, c'est le coût de la vie très accessible qui permet de vivre comme des princes avec un budget modeste, tout en bénéficiant d'infrastructures numériques de pointe et d'une communauté nomade très développée.",
+      "advantages": [
+        "Coût de la vie très bas (800-1200€/mois pour une famille)",
+        "Wifi ultra-rapide partout (100+ Mbps)",
+        "Nounous balinaises expérimentées et adorables",
+        "Activités outdoor exceptionnelles pour enfants",
+        "Communauté nomade très active et bienveillante",
+        "Climat tropical stable toute l'année",
+        "Nourriture saine et délicieuse",
+        "Massages et wellness très abordables"
+      ],
+      "practicalInfo": {
+        "visa": "Visa touristique 30 jours renouvelable, ou visa B211A (60 jours)",
+        "currency": "Roupie indonésienne (IDR) - 1€ ≈ 16 000 IDR",
+        "language": "Bahasa Indonesia (anglais très répandu)",
+        "timezone": "GMT+8 (WITA)",
+        "plugType": "Type C et F (adaptateur recommandé)",
+        "internet": "Fibre optique excellent, 4G partout",
+        "healthcare": "Assurance internationale recommandée",
+        "transportation": "Scooter, voiture avec chauffeur, Gojek/Grab",
+        "weather": "26-30°C toute l'année, saison sèche avril-octobre"
+      },
+      "educationOptions": [
+        {
+          "name": "Nounou anglophone",
+          "type": "Garde personnalisée",
+          "ageRange": "0-12 ans",
+          "description": "Nounous balinaises expérimentées, formées aux standards internationaux",
+          "tuition": "200-400€/mois",
+          "features": ["Anglais/français parlé", "Activités éducatives", "Sorties culturelles", "Flexibilité horaire"]
+        },
+        {
+          "name": "Green School",
+          "type": "École internationale",
+          "ageRange": "3-18 ans",
+          "description": "École écologique innovante en bambou, pédagogie alternative",
+          "tuition": "800-1200€/mois",
+          "features": ["Pédagogie Montessori", "Environnement naturel", "Classes multilingues", "Projets créatifs"]
+        },
+        {
+          "name": "CNED + Homeschooling",
+          "type": "Enseignement à distance",
+          "ageRange": "6-18 ans",
+          "description": "Instruction en famille avec support communauté française",
+          "tuition": "100-300€/mois",
+          "features": ["Flexibilité totale", "Communauté nomade", "Sorties éducatives", "Activités groupe"]
+        }
+      ],
+      "housingOptions": [
+        {
+          "type": "Villa avec piscine",
+          "priceRange": "800-1500€/mois",
+          "description": "Villas traditionnelles balinaises avec jardin tropical",
+          "features": ["Piscine privée", "Jardin tropical", "Staff inclus", "Cuisine équipée"],
+          "neighborhoods": ["Canggu", "Seminyak", "Sanur", "Ubud"]
+        },
+        {
+          "type": "Maison familiale",
+          "priceRange": "600-1200€/mois",
+          "description": "Maisons dans quartiers résidentiels balinais",
+          "features": ["Authentique", "Proche écoles", "Terrasse", "Sécurisé"],
+          "neighborhoods": ["Denpasar", "Ubud", "Sanur", "Jimbaran"]
+        },
+        {
+          "type": "Coliving nomade",
+          "priceRange": "500-800€/mois",
+          "description": "Espaces partagés pour familles nomades",
+          "features": ["Communauté", "Coworking", "Activités enfants", "Tout inclus"],
+          "neighborhoods": ["Canggu", "Seminyak", "Ubud"]
+        }
+      ],
+      "costs": {
+        "housing": { "min": 500, "max": 1500, "average": 900 },
+        "food": { "min": 200, "max": 500, "average": 300 },
+        "transport": { "min": 100, "max": 300, "average": 200 },
+        "education": { "min": 100, "max": 1200, "average": 400 },
+        "utilities": { "min": 50, "max": 150, "average": 100 },
+        "leisure": { "min": 100, "max": 400, "average": 250 },
+        "total": { "min": 1050, "max": 4050, "average": 2150 }
+      },
+      "testimonials": [
+        {
+          "author": "Amélie",
+          "family": "Maman solo avec Léa (5 ans)",
+          "duration": "4 mois",
+          "text": "En tant que mère célibataire, j'appréhendais ce voyage. L'équipe de Nomadeos m'a rassurée et accompagnée à chaque étape. La nounou balinaise était formidable avec Léa, et j'ai pu développer mon activité freelance.",
+          "rating": 5,
+          "image": "https://images.unsplash.com/photo-1494790108755-2616b612b3be?w=100&h=100&fit=crop&crop=face",
+          "date": "2024-02-10"
+        },
+        {
+          "author": "Julien & Sarah",
+          "family": "Couple + jumeaux (4 ans)",
+          "duration": "5 mois",
+          "text": "Bali avec des jumeaux ? C'était notre défi ! Les nounous ont été exceptionnelles et les enfants ont adoré la Green School. Une expérience transformatrice pour toute la famille.",
+          "rating": 5,
+          "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=100&h=100&fit=crop&crop=face",
+          "date": "2023-11-25"
+        }
+      ],
+      "activities": [
+        "Cours de surf pour toute la famille",
+        "Visite des temples (Tanah Lot, Uluwatu)",
+        "Rizières en terrasses d'Ubud",
+        "Spectacles de danse traditionnelle",
+        "Ateliers d'artisanat balinais",
+        "Parc Safari & Marine",
+        "Plongée avec masque et tuba"
+      ],
+      "coworkingSpaces": [
+        "Dojo Bali (Canggu)",
+        "Hubud (Ubud)",
+        "Outpost (Seminyak)",
+        "Tropical Nomad (Canggu)",
+        "The Slow (Sanur)"
+      ],
+      "bestMonths": ["Avril", "Mai", "Juin", "Juillet", "Août", "September"],
+      "tags": ["Asie", "Tropical", "Économique", "Nounous", "Wifi", "Communauté", "Wellness"]
+    },
+    {
+      "id": 3,
+      "name": "Mexico",
+      "country": "Mexique",
+      "region": "Amérique",
+      "slug": "mexico-mexique",
+      "image": "https://mexique-voyages.com/wp-content/uploads/adobestock-192337612-1280x800.jpeg",
+      "gallery": [
+        "https://mexique-voyages.com/wp-content/uploads/adobestock-192337612-1280x800.jpeg",
+        "https://images.unsplash.com/photo-1512813195386-6cf811ad3542?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1566514124163-a7c3fea7b8d5?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1518105779142-d975f22f1b0c?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"
+      ],
+      "price": "À partir de 900€/mois",
+      "minBudget": 900,
+      "rating": 4.7,
+      "reviewCount": 124,
+      "highlights": ["Culture riche", "Gastronomie exceptionnelle", "École bilingue", "Proximité USA"],
+      "familyFriendly": true,
+      "hasSchool": true,
+      "hasNanny": true,
+      "minDuration": 1,
+      "maxCapacity": 8,
+      "climate": "sec",
+      "safety": 3,
+      "wifiQuality": 4,
+      "description": "Capitale vibrante aux mille facettes, Mexico City offre une immersion culturelle unique. Avec ses écoles bilingues de qualité et sa position stratégique, c'est le hub parfait pour explorer les Amériques.",
+      "longDescription": "Mexico City, l'une des plus grandes métropoles du monde, fascine par son mélange unique de traditions aztèques et de modernité. Cette capitale culturelle de l'Amérique latine offre aux familles nomades une expérience immersive incomparable, avec ses musées de classe mondiale, sa gastronomie exceptionnelle et sa scène artistique bouillonnante. L'éducation bilingue de qualité et la proximité avec les États-Unis en font une base stratégique pour les familles souhaitant explorer les Amériques.",
+      "advantages": [
+        "Écoles bilingues français-espagnol de qualité",
+        "Richesse culturelle et historique exceptionnelle",
+        "Gastronomie mondialement reconnue (UNESCO)",
+        "Proximité géographique avec les États-Unis",
+        "Coût de la vie très compétitif",
+        "Climat d'altitude agréable toute l'année",
+        "Transports publics excellents (métro, metrobus)",
+        "Scène artistique et culturelle dynamique"
+      ],
+      "practicalInfo": {
+        "visa": "Visa touristique 180 jours pour les Européens",
+        "currency": "Peso mexicain (MXN) - 1€ ≈ 19 MXN",
+        "language": "Espagnol (anglais dans zones touristiques)",
+        "timezone": "GMT-6 (GMT-5 en été)",
+        "plugType": "Type A et B (adaptateur USA)",
+        "internet": "Fibre optique disponible, 4G excellent",
+        "healthcare": "Assurance privée recommandée",
+        "transportation": "Métro, metrobus, Uber, vélos publics",
+        "weather": "16-25°C, altitude 2240m, saison sèche oct-mai"
+      },
+      "educationOptions": [
+        {
+          "name": "Lycée Franco-Mexicain",
+          "type": "École française",
+          "ageRange": "3-18 ans",
+          "description": "Établissement bilingue reconnu par l'AEFE et la SEP mexicaine",
+          "tuition": "400-600€/mois",
+          "features": ["Baccalauréat français", "Bilinguisme français-espagnol", "Classes réduites", "Échanges culturels"]
+        },
+        {
+          "name": "École américaine",
+          "type": "École internationale",
+          "ageRange": "3-18 ans",
+          "description": "Programmes américain et IB dans un cadre multiculturel",
+          "tuition": "800-1200€/mois",
+          "features": ["Programme IB", "Anglais natif", "Sports américains", "Université USA"]
+        },
+        {
+          "name": "Nounou mexicaine",
+          "type": "Garde d'enfants",
+          "ageRange": "0-12 ans",
+          "description": "Nounous expérimentées, souvent bilingues espagnol-anglais",
+          "tuition": "300-500€/mois",
+          "features": ["Immersion espagnole", "Activités culturelles", "Cuisine locale", "Flexibilité"]
+        }
+      ],
+      "housingOptions": [
+        {
+          "type": "Appartement Condesa/Roma",
+          "priceRange": "1000-1800€/mois",
+          "description": "Quartiers branchés avec terrasses et espaces verts",
+          "features": ["Architecture Art Déco", "Cafés et restaurants", "Parcs", "Wifi haut débit"],
+          "neighborhoods": ["Condesa", "Roma Norte", "Roma Sur", "Doctores"]
+        },
+        {
+          "type": "Maison Coyoacán",
+          "priceRange": "800-1500€/mois",
+          "description": "Quartier historique familial avec jardins",
+          "features": ["Ambiance village", "Marchés locaux", "Histoire", "Espaces verts"],
+          "neighborhoods": ["Coyoacán", "San Ángel", "Tlalpan", "Xochimilco"]
+        },
+        {
+          "type": "Penthouse Polanco",
+          "priceRange": "1500-3000€/mois",
+          "description": "Quartier huppé avec services premium",
+          "features": ["Sécurité 24h", "Piscine", "Salle sport", "Concierge"],
+          "neighborhoods": ["Polanco", "Santa Fe", "Lomas", "Interlomas"]
+        }
+      ],
+      "costs": {
+        "housing": { "min": 800, "max": 3000, "average": 1400 },
+        "food": { "min": 300, "max": 700, "average": 500 },
+        "transport": { "min": 50, "max": 200, "average": 100 },
+        "education": { "min": 300, "max": 1200, "average": 600 },
+        "utilities": { "min": 100, "max": 250, "average": 150 },
+        "leisure": { "min": 200, "max": 600, "average": 400 },
+        "total": { "min": 1750, "max": 5950, "average": 3150 }
+      },
+      "testimonials": [
+        {
+          "author": "Thomas & Julia",
+          "family": "Couple + jumeaux (3 ans)",
+          "duration": "8 mois",
+          "text": "Mexico avec des jumeaux de 3 ans ? Nous pensions que c'était fou ! Mais l'organisation de Nomadeos était parfaite. École bilingue, appartement sécurisé, et une communauté d'expats très accueillante.",
+          "rating": 5,
+          "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=100&h=100&fit=crop&crop=face",
+          "date": "2023-12-05"
+        },
+        {
+          "author": "Marie & Carlos",
+          "family": "Famille recomposée (4 enfants 6-16 ans)",
+          "duration": "1 an",
+          "text": "Une année extraordinaire à Mexico ! Les enfants ont appris l'espagnol, découvert une culture fascinante et nous avons vécu comme des locaux. Le Lycée Franco-Mexicain était parfait.",
+          "rating": 5,
+          "image": "https://images.unsplash.com/photo-1511895426328-dc8714191300?w=100&h=100&fit=crop&crop=face",
+          "date": "2023-09-15"
+        }
+      ],
+      "activities": [
+        "Visite du Musée National d'Anthropologie",
+        "Balades à Xochimilco en trajineras",
+        "Pyramides de Teotihuacán",
+        "Marchés traditionnels (Mercado de San Juan)",
+        "Spectacles de mariachis",
+        "Parc de Chapultepec et zoo",
+        "Cours de cuisine mexicaine",
+        "Excursions à Puebla et Cuernavaca"
+      ],
+      "coworkingSpaces": [
+        "WeWork (Polanco, Santa Fe)",
+        "Terminal 1 (Roma Norte)",
+        "Impact Hub (Juárez)",
+        "Homework (Condesa)",
+        "Loft Coworking (Roma)"
+      ],
+      "bestMonths": ["Octobre", "Novembre", "Décembre", "Janvier", "Février", "Mars"],
+      "tags": ["Amérique", "Culture", "Bilingue", "Gastronomie", "Histoire", "Art", "Famille"]
+    },
+    {
+      "id": 4,
+      "name": "Dubaï",
+      "country": "Émirats Arabes Unis",
+      "region": "Moyen-Orient",
+      "slug": "dubai-emirats",
+      "image": "https://www.comeindubai.com/wp-content/uploads/2021/12/Dubai-Marina-FrenchyDubai-scaled.jpeg",
+      "gallery": [
+        "https://www.comeindubai.com/wp-content/uploads/2021/12/Dubai-Marina-FrenchyDubai-scaled.jpeg",
+        "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1518684079-3c830dcef090?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1596394516093-501ba68a0ba6?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"
+      ],
+      "price": "À partir de 2000€/mois",
+      "minBudget": 2000,
+      "rating": 4.9,
+      "reviewCount": 67,
+      "highlights": ["Luxe et modernité", "Hub international", "Écoles internationales", "Sécurité maximale"],
+      "familyFriendly": true,
+      "hasSchool": true,
+      "hasNanny": true,
+      "minDuration": 1,
+      "maxCapacity": 4,
+      "climate": "désertique",
+      "safety": 5,
+      "wifiQuality": 5,
+      "description": "Métropole futuriste au cœur du Moyen-Orient, Dubaï offre un cadre de vie premium avec une sécurité exemplaire. Destination de choix pour les familles recherchant l'excellence et le confort absolu.",
+      "longDescription": "Dubaï, la perle des Émirats Arabes Unis, incarne la modernité et l'innovation à l'état pur. Cette métropole futuriste offre aux familles nomades un cadre de vie exceptionnel, alliant luxe, sécurité et opportunités internationales. Avec ses infrastructures de pointe, ses écoles prestigieuses et sa position de hub mondial, Dubaï attire les familles qui recherchent l'excellence dans tous les domaines. La diversité culturelle y est extraordinaire, avec plus de 200 nationalités cohabitant harmonieusement.",
+      "advantages": [
+        "Sécurité et stabilité politique exceptionnelles",
+        "Écoles internationales de prestige mondial",
+        "Infrastructure ultra-moderne et efficace",
+        "Hub de connexion vers l'Asie et l'Europe",
+        "Fiscalité très avantageuse (0% impôt sur le revenu)",
+        "Qualité de vie premium",
+        "Diversité culturelle unique (200+ nationalités)",
+        "Climat ensoleillé 330 jours par an"
+      ],
+      "practicalInfo": {
+        "visa": "Visa touristique 90 jours, visa résidence via emploi/investissement",
+        "currency": "Dirham des EAU (AED) - 1€ ≈ 4 AED",
+        "language": "Arabe officiel, anglais très répandu",
+        "timezone": "GMT+4",
+        "plugType": "Type G (britannique)",
+        "internet": "Fibre optique partout, 5G excellent",
+        "healthcare": "Assurance santé obligatoire, hôpitaux de pointe",
+        "transportation": "Métro, taxi, Uber, Careem, bus",
+        "weather": "20-42°C, désertique avec AC partout"
+      },
+      "educationOptions": [
+        {
+          "name": "AFLEC (École française)",
+          "type": "École française",
+          "ageRange": "3-18 ans",
+          "description": "Écoles françaises homologuées AEFE dans plusieurs campus",
+          "tuition": "800-1200€/mois",
+          "features": ["Programme français", "Baccalauréat français", "Campus modernes", "Excellence académique"]
+        },
+        {
+          "name": "GEMS Education",
+          "type": "École internationale",
+          "ageRange": "3-18 ans",
+          "description": "Réseau d'écoles britanniques et IB de renommée mondiale",
+          "tuition": "1000-2000€/mois",
+          "features": ["Curriculum britannique", "Programme IB", "Technologies de pointe", "Sport d'élite"]
+        },
+        {
+          "name": "Nounou professionnelle",
+          "type": "Garde d'enfants",
+          "ageRange": "0-12 ans",
+          "description": "Nounous qualifiées, souvent philippaines ou européennes",
+          "tuition": "800-1500€/mois",
+          "features": ["Diplômées", "Multilingues", "Disponibilité flexible", "Références vérifiées"]
+        }
+      ],
+      "housingOptions": [
+        {
+          "type": "Appartement Marina/JBR",
+          "priceRange": "2000-4000€/mois",
+          "description": "Tours modernes avec vue mer et plage privée",
+          "features": ["Vue mer", "Piscine", "Salle sport", "Plage privée"],
+          "neighborhoods": ["Dubai Marina", "JBR", "Bluewaters", "Palm Jumeirah"]
+        },
+        {
+          "type": "Villa Emirates Hills",
+          "priceRange": "3000-8000€/mois",
+          "description": "Villas de luxe dans communautés fermées",
+          "features": ["Jardin privé", "Piscine", "Sécurité 24h", "Golf access"],
+          "neighborhoods": ["Emirates Hills", "Arabian Ranches", "Jumeirah Islands", "The Springs"]
+        },
+        {
+          "type": "Penthouse Downtown",
+          "priceRange": "2500-6000€/mois",
+          "description": "Appartements haut de gamme centre-ville",
+          "features": ["Vue Burj Khalifa", "Mall connecté", "Metro access", "Services premium"],
+          "neighborhoods": ["Downtown", "Business Bay", "DIFC", "City Walk"]
+        }
+      ],
+      "costs": {
+        "housing": { "min": 2000, "max": 8000, "average": 3500 },
+        "food": { "min": 600, "max": 1500, "average": 1000 },
+        "transport": { "min": 200, "max": 800, "average": 400 },
+        "education": { "min": 800, "max": 2000, "average": 1200 },
+        "utilities": { "min": 200, "max": 500, "average": 300 },
+        "leisure": { "min": 400, "max": 1200, "average": 800 },
+        "total": { "min": 4200, "max": 14000, "average": 7200 }
+      },
+      "testimonials": [
+        {
+          "author": "Laurent & Sarah",
+          "family": "Famille de 3 (fille 14 ans)",
+          "duration": "1 an",
+          "text": "Un an à Dubaï avec notre ado. Qualité de vie extraordinaire, école internationale d'exception et opportunités incroyables. Notre fille a adoré la diversité culturelle et nous la sécurité totale.",
+          "rating": 5,
+          "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=100&h=100&fit=crop&crop=face",
+          "date": "2024-01-08"
+        },
+        {
+          "author": "Nadia & Ahmed",
+          "family": "Couple + 2 enfants (6 et 9 ans)",
+          "duration": "2 ans",
+          "text": "Dubaï nous a offert une qualité de vie inégalée. Les écoles sont fantastiques, la sécurité parfaite et les opportunités professionnelles nombreuses. Nos enfants sont devenus polyglottes !",
+          "rating": 5,
+          "image": "https://images.unsplash.com/photo-1494790108755-2616b612b3be?w=100&h=100&fit=crop&crop=face",
+          "date": "2023-10-20"
+        }
+      ],
+      "activities": [
+        "Burj Khalifa et Dubai Mall",
+        "Safari dans le désert en famille",
+        "Plages privées et parcs aquatiques",
+        "Ski à Mall of the Emirates",
+        "Aquarium de Dubai et zoo",
+        "Croisières en dhow traditionnel",
+        "Parcs d'attractions (IMG Worlds, Motiongate)",
+        "Marchés traditionnels (Gold Souk, Spice Souk)"
+      ],
+      "coworkingSpaces": [
+        "The Meydan (Business Bay)",
+        "A4 Space (Al Quoz)",
+        "Impact Hub Dubai (DIFC)",
+        "WeWork (multiple locations)",
+        "Regus (premium locations)"
+      ],
+      "bestMonths": ["Novembre", "Décembre", "Janvier", "Février", "Mars", "Avril"],
+      "tags": ["Luxe", "Sécurité", "International", "Écoles", "Hub", "Moderne", "Famille"]
+    },
+    {
+      "id": 5,
+      "name": "Bangkok",
+      "country": "Thaïlande",
+      "region": "Asie",
+      "slug": "bangkok-thailande",
+      "image": "https://gourmetbag.fr/wp-content/uploads/2024/12/Ou-se-trouve-Bangkok.png",
+      "gallery": [
+        "https://gourmetbag.fr/wp-content/uploads/2024/12/Ou-se-trouve-Bangkok.png",
+        "https://images.unsplash.com/photo-1508009603885-50cf7c579365?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1561379736-b68b8b74df63?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"
+      ],
+      "price": "À partir de 700€/mois",
+      "minBudget": 700,
+      "rating": 4.5,
+      "reviewCount": 203,
+      "highlights": ["Coût de la vie très bas", "Street food incroyable", "Temples magnifiques", "Communauté expat"],
+      "familyFriendly": false,
+      "hasSchool": false,
+      "hasNanny": true,
+      "minDuration": 1,
+      "maxCapacity": 4,
+      "climate": "tropical",
+      "safety": 3,
+      "wifiQuality": 4,
+      "description": "Capitale énergique de la Thaïlande, Bangkok fascine par son mélange unique de tradition et de modernité. Destination économique idéale pour les couples nomades ou familles avec adolescents autonomes.",
+      "longDescription": "Bangkok, la Cité des Anges, est l'une des capitales les plus vibrantes d'Asie. Cette mégalopole de près de 15 millions d'habitants offre un contraste saisissant entre temples dorés et gratte-ciels ultramodernes, marchés flottants traditionnnels et centres commerciaux gigantesques. Pour les nomades digitaux, Bangkok représente un excellent rapport qualité-prix avec ses coûts très bas, sa connectivité excellente et sa position stratégique en Asie du Sud-Est.",
+      "advantages": [
+        "Coût de la vie imbattable (700-1200€/mois)",
+        "Gastronomie de rue exceptionnelle et variée",
+        "Culture bouddhiste riche et apaisante",
+        "Communauté expat importante et accueillante",
+        "Porte d'entrée vers l'Asie du Sud-Est",
+        "Transports publics modernes (BTS, MRT)",
+        "Soins de santé excellents et abordables",
+        "Climat tropical stable"
+      ],
+      "practicalInfo": {
+        "visa": "Visa touristique 30 jours, extensible 30 jours",
+        "currency": "Baht thaïlandais (THB) - 1€ ≈ 37 THB",
+        "language": "Thaï (anglais dans zones touristiques)",
+        "timezone": "GMT+7",
+        "plugType": "Type A, B et C",
+        "internet": "Fibre optique excellent, 4G/5G partout",
+        "healthcare": "Hôpitaux internationaux excellents",
+        "transportation": "BTS, MRT, taxi, tuk-tuk, Grab",
+        "weather": "26-35°C, saison sèche nov-mars"
+      },
+      "educationOptions": [
+        {
+          "name": "Nounou thaïlandaise",
+          "type": "Garde d'enfants",
+          "ageRange": "0-12 ans",
+          "description": "Nounous locales expérimentées, souvent anglophones",
+          "tuition": "200-400€/mois",
+          "features": ["Anglais basique", "Culture locale", "Très abordable", "Flexibilité"]
+        },
+        {
+          "name": "International School",
+          "type": "École internationale",
+          "ageRange": "3-18 ans",
+          "description": "Écoles britanniques et américaines pour expatriés",
+          "tuition": "800-1500€/mois",
+          "features": ["Curriculum anglais", "Standard international", "Communauté expat", "Activités variées"]
+        },
+        {
+          "name": "Homeschooling communauté",
+          "type": "Instruction en famille",
+          "ageRange": "6-16 ans",
+          "description": "Groupes d'instruction en famille avec familles nomades",
+          "tuition": "100-300€/mois",
+          "features": ["Flexibilité", "Communauté", "Découvertes culturelles", "Coût minimal"]
+        }
+      ],
+      "housingOptions": [
+        {
+          "type": "Condo Sukhumvit",
+          "priceRange": "600-1200€/mois",
+          "description": "Condominiums modernes dans le quartier international",
+          "features": ["Piscine", "Salle sport", "BTS access", "Sécurité"],
+          "neighborhoods": ["Sukhumvit", "Thonglor", "Ekkamai", "Phrom Phong"]
+        },
+        {
+          "type": "Appartement Silom",
+          "priceRange": "500-1000€/mois",
+          "description": "Centre financier avec excellent transport",
+          "features": ["Centre-ville", "MRT/BTS", "Restaurants", "Commodités"],
+          "neighborhoods": ["Silom", "Sathorn", "Lumpini", "Chong Nonsi"]
+        },
+        {
+          "type": "Serviced apartment",
+          "priceRange": "800-1500€/mois",
+          "description": "Appartements avec services hôteliers",
+          "features": ["Service quotidien", "Tout inclus", "Flexibilité", "Business center"],
+          "neighborhoods": ["Asok", "Nana", "Ploenchit", "Ratchadamri"]
+        }
+      ],
+      "costs": {
+        "housing": { "min": 500, "max": 1500, "average": 850 },
+        "food": { "min": 150, "max": 400, "average": 250 },
+        "transport": { "min": 50, "max": 150, "average": 100 },
+        "education": { "min": 100, "max": 1500, "average": 400 },
+        "utilities": { "min": 100, "max": 200, "average": 150 },
+        "leisure": { "min": 100, "max": 300, "average": 200 },
+        "total": { "min": 1000, "max": 4050, "average": 1950 }
+      },
+      "testimonials": [
+        {
+          "author": "Pierre & Anne",
+          "family": "Couple sans enfants",
+          "duration": "3 mois",
+          "text": "3 mois intenses à Bangkok. Dépaysement total et découvertes culinaires incroyables ! La ville ne dort jamais et nous avons adoré cette énergie. Parfait pour les couples aventureux.",
+          "rating": 4,
+          "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=100&h=100&fit=crop&crop=face",
+          "date": "2024-02-28"
+        },
+        {
+          "author": "Lucas",
+          "family": "Nomade solo",
+          "duration": "6 mois",
+          "text": "Bangkok m'a bluffé ! Coût de la vie dérisoire, wifi excellent, et une scène nomade très active. J'ai adoré les temples, la street food et l'énergie de cette ville. Base parfaite pour explorer l'Asie.",
+          "rating": 5,
+          "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=100&h=100&fit=crop&crop=face",
+          "date": "2023-11-10"
+        }
+      ],
+      "activities": [
+        "Visite des temples (Wat Pho, Wat Arun, Grand Palais)",
+        "Marchés flottants de Damnoen Saduak",
+        "Street food tours dans Chinatown",
+        "Massages traditionnels thaïlandais",
+        "Courses de boxe thaï au Lumpinee",
+        "Croisières sur les klongs",
+        "Shopping dans les marchés (Chatuchak, JJ Green)",
+        "Excursions à Ayutthaya"
+      ],
+      "coworkingSpaces": [
+        "Hubba-TO (Ekkamai)",
+        "TCDC (Emporium)",
+        "Launchpad (Central World)",
+        "Paper Plane (Thonglor)",
+        "The Commons (Saladaeng)"
+      ],
+      "bestMonths": ["Novembre", "Décembre", "Janvier", "Février"],
+      "tags": ["Asie", "Économique", "Culture", "Street-food", "Temples", "Nomades", "Aventure"]
+    },
+    {
+      "id": 6,
+      "name": "Barcelone",
+      "country": "Espagne",
+      "region": "Europe",
+      "slug": "barcelone-espagne",
+      "image": "https://img.static-kl.com/images/media/BC3943CA-CD85-4A52-ABE496DAB90E33B4",
+      "gallery": [
+        "https://img.static-kl.com/images/media/BC3943CA-CD85-4A52-ABE496DAB90E33B4",
+        "https://images.unsplash.com/photo-1539037116277-4db20889f2d4?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1583422409516-2895a77efded?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1558642452-9d2a7deb7f62?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"
+      ],
+      "price": "À partir de 1400€/mois",
+      "minBudget": 1400,
+      "rating": 4.8,
+      "reviewCount": 178,
+      "highlights": ["Architecture unique", "Plages urbaines", "École française", "Vie nocturne"],
+      "familyFriendly": true,
+      "hasSchool": true,
+      "hasNanny": false,
+      "minDuration": 1,
+      "maxCapacity": 6,
+      "climate": "méditerranéen",
+      "safety": 4,
+      "wifiQuality": 4,
+      "description": "Joyau de la Catalogne, Barcelone enchante par son architecture gaudienne, ses plages urbaines et sa joie de vivre. Une destination européenne parfaite pour allier culture, détente et qualité de vie en famille.",
+      "longDescription": "Barcelone, capitale de la Catalogne, séduit immédiatement par son charme méditerranéen unique. Cette ville d'art et d'histoire offre un cadre de vie exceptionnel aux familles nomades, combinant patrimoine architectural extraordinaire, plages urbaines accessibles en métro, et une scène culturelle effervescente. L'école française Ferdinand de Lesseps et la proximité avec la France en font une destination rassurante pour une première expérience nomade en famille.",
+      "advantages": [
+        "Architecture Gaudí unique au monde (Sagrada Familia, Park Güell)",
+        "Plages urbaines accessibles en métro (Barceloneta, Nova Icaria)",
+        "École française Ferdinand de Lesseps reconnue",
+        "Climat méditerranéen agréable toute l'année",
+        "Scène artistique et culturelle dynamique",
+        "Gastronomie catalane exceptionnelle",
+        "Transports publics excellents",
+        "Proximité France (7h de route, vols directs)"
+      ],
+      "practicalInfo": {
+        "visa": "Pas de visa nécessaire pour les citoyens UE",
+        "currency": "Euro (€)",
+        "language": "Catalan et espagnol (français parlé dans certains quartiers)",
+        "timezone": "GMT+1 (GMT+2 en été)",
+        "plugType": "Type C et F (européen standard)",
+        "internet": "Fibre optique partout, 4G/5G excellent",
+        "healthcare": "Carte européenne d'assurance maladie acceptée",
+        "transportation": "Métro, bus, tramway, vélos Bicing",
+        "weather": "16-26°C, 2500h de soleil/an"
+      },
+      "educationOptions": [
+        {
+          "name": "École française Ferdinand de Lesseps",
+          "type": "École française",
+          "ageRange": "3-18 ans",
+          "description": "Établissement français homologué AEFE au cœur de Barcelone",
+          "tuition": "500-700€/mois",
+          "features": ["Programme français complet", "Baccalauréat français", "Trilinguisme français-catalan-espagnol", "Échanges européens"]
+        },
+        {
+          "name": "École internationale",
+          "type": "École internationale",
+          "ageRange": "3-18 ans",
+          "description": "Écoles britanniques et américaines dans la ville",
+          "tuition": "800-1200€/mois",
+          "features": ["Curriculum anglais", "Baccalauréat international", "Communauté multiculturelle", "Sports variés"]
+        },
+        {
+          "name": "École catalane",
+          "type": "École locale",
+          "ageRange": "3-18 ans",
+          "description": "Immersion totale dans le système éducatif catalan",
+          "tuition": "Gratuit (école publique)",
+          "features": ["Immersion linguistique", "Gratuit", "Intégration locale", "Culture catalane"]
+        }
+      ],
+      "housingOptions": [
+        {
+          "type": "Appartement Eixample",
+          "priceRange": "1400-2200€/mois",
+          "description": "Quartier moderniste avec architecture Gaudí",
+          "features": ["Architecture unique", "Métro proche", "Commerces", "Terrasses"],
+          "neighborhoods": ["Eixample", "Passeig de Gràcia", "Sagrada Familia", "Arc de Triomf"]
+        },
+        {
+          "type": "Appartement Gràcia",
+          "priceRange": "1200-2000€/mois",
+          "description": "Quartier bohème avec ambiance village",
+          "features": ["Authentique", "Places charmantes", "Restaurants locaux", "Familles"],
+          "neighborhoods": ["Gràcia", "Vila de Gràcia", "Vallcarca", "Penitents"]
+        },
+        {
+          "type": "Penthouse Barceloneta",
+          "priceRange": "1800-3500€/mois",
+          "description": "Front de mer avec terrasses et vue mer",
+          "features": ["Vue mer", "Plage à pied", "Terrasse", "Restaurants fruits de mer"],
+          "neighborhoods": ["Barceloneta", "Port Olimpic", "Poblenou", "Diagonal Mar"]
+        }
+      ],
+      "costs": {
+        "housing": { "min": 1200, "max": 3500, "average": 1800 },
+        "food": { "min": 400, "max": 800, "average": 600 },
+        "transport": { "min": 100, "max": 200, "average": 120 },
+        "education": { "min": 0, "max": 1200, "average": 600 },
+        "utilities": { "min": 150, "max": 300, "average": 200 },
+        "leisure": { "min": 300, "max": 700, "average": 500 },
+        "total": { "min": 2150, "max": 6700, "average": 3820 }
+      },
+      "testimonials": [
+        {
+          "author": "Marie & Jean",
+          "family": "Famille de 4 (enfants 9 et 13 ans)",
+          "duration": "5 mois",
+          "text": "5 mois magiques à Barcelone. Les enfants adoraient l'école française et nous la culture catalane ! Architecture incroyable, plages à portée de métro, et une qualité de vie exceptionnelle. On recommande !",
+          "rating": 5,
+          "image": "https://images.unsplash.com/photo-1511895426328-dc8714191300?w=100&h=100&fit=crop&crop=face",
+          "date": "2024-01-15"
+        },
+        {
+          "author": "Céline & Paul",
+          "family": "Couple + ado (16 ans)",
+          "duration": "4 mois",
+          "text": "Barcelone nous a conquis ! Notre ado a adoré l'immersion espagnole et nous avons découvert une ville extraordinaire. Le mélange culture-plage-gastronomie est parfait.",
+          "rating": 5,
+          "image": "https://images.unsplash.com/photo-1494790108755-2616b612b3be?w=100&h=100&fit=crop&crop=face",
+          "date": "2023-09-22"
+        }
+      ],
+      "activities": [
+        "Visite de la Sagrada Familia et Park Güell",
+        "Promenades sur les Ramblas et dans le Quartier Gothique",
+        "Plages urbaines (Barceloneta, Bogatell, Nova Icaria)",
+        "Musées Picasso et Miró",
+        "Marchés de la Boqueria et Santa Caterina",
+        "Excursions à Montserrat et Costa Brava",
+        "Spectacles de flamenco",
+        "Vélo le long du front de mer"
+      ],
+      "coworkingSpaces": [
+        "Betahaus (Poblenou)",
+        "One Coworking (Eixample)",
+        "Spaces (Diagonal)",
+        "Aticco (multiple locations)",
+        "Talent Garden (Poblenou)"
+      ],
+      "bestMonths": ["Avril", "Mai", "Juin", "Septembre", "Octobre"],
+      "tags": ["Europe", "Plage", "Culture", "École française", "Architecture", "Gastronomie", "Famille"]
+    }
+  ],
+  "regions": [
+    { "name": "Europe", "count": 3 },
+    { "name": "Asie", "count": 2 },
+    { "name": "Amérique", "count": 1 },
+    { "name": "Moyen-Orient", "count": 1 }
+  ],
+  "climates": [
+    { "name": "tempéré", "description": "Climat doux toute l'année" },
+    { "name": "tropical", "description": "Chaud et humide, saisons sèche/humide" },
+    { "name": "méditerranéen", "description": "Étés chauds, hivers doux" },
+    { "name": "désertique", "description": "Très chaud et sec" },
+    { "name": "sec", "description": "Faible humidité, altitude" }
+  ],
+  "budgetRanges": [
+    { "range": "800-1200", "description": "Budget économique", "destinations": ["Bali", "Bangkok"] },
+    { "range": "1200-1800", "description": "Budget moyen", "destinations": ["Lisbonne", "Mexico", "Barcelone"] },
+    { "range": "2000+", "description": "Budget premium", "destinations": ["Dubaï"] }
+  ],
+  "educationTypes": [
+    { "type": "École française", "description": "Programme français homologué AEFE" },
+    { "type": "École internationale", "description": "Curriculums britannique, américain ou IB" },
+    { "type": "Garde d'enfants", "description": "Nounous qualifiées locales" },
+    { "type": "Enseignement à distance", "description": "CNED avec support local" },
+    { "type": "École locale", "description": "Immersion dans le système local" }
+  ],
+  "metadata": {
+    "lastUpdated": "2024-12-18",
+    "version": "1.0",
+    "totalDestinations": 6,
+    "avgRating": 4.7,
+    "priceRange": "700-8000€/mois"
+  }
+}
